@@ -1,0 +1,6 @@
+dist/
+node_modules/
+# Se ignora el archivo log
+logs/
+# Se ignora archivo de configuracion principal de base de datos
+src/constants/config/database.constants.ts
